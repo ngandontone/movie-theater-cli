@@ -2,6 +2,6 @@
 
 A command line interface app that simulates a movie theater.
 
-##Usage
+## Usage
 
-Run ruby app.rb in the terminal. 
+Run `ruby app.rb` in the terminal. 
